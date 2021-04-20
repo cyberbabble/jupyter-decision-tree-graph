@@ -41,7 +41,7 @@ pluggy==0.7.1
 prometheus-client==0.3.1
 prompt-toolkit==1.0.15
 ptyprocess==0.6.0
-py==1.6.0
+py==1.10.0
 py2neo==4.1.2
 Pygments==2.2.0
 pyparsing==2.2.0
